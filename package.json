@@ -13,5 +13,8 @@
     "js"
   ],
   "author": "jo",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+  "your-command-here": "./index.js"
+  }
 }
