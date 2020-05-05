@@ -1,0 +1,27 @@
+"bin": {
+    "your-command-here": "./index.js"
+},
+
+{
+    "name": "Jyoti Shinde",
+    "website": "https://statst.github.io/",
+    "linkedin": "https://www.linkedin.com/in/jyoti-shinde/",
+    "github": "statst",
+    "email": "jshindems@gmail.com",
+    "resume": "https://drive.google.com/drive/folders/1eMrQ3N80MF_ZfcYoG9RThUzbQPTnoR2W?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Python",
+        "Django",
+        "SQL"
+    ],
+    "otherSkills": [
+        "Microsoft Office",
+        "SAS",
+        "Agile Scrum"
+    ]
+}
